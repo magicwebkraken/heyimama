@@ -92161,7 +92161,7 @@ function pde() {
     d = [
       {
         name: "NASDAQ666",
-        address: "0xc8c6C17c802F22324eF2585B0cb17c1570D2492c",
+        address: "0xcomingsoon",
         symbol: "NDQ",
         decimals: 18,
         chainId: 56,
@@ -92194,7 +92194,7 @@ function pde() {
           theme: f,
           tokenList: d,
           provider: i,
-          defaultTokenOut: "0xc8c6C17c802F22324eF2585B0cb17c1570D2492c",
+          defaultTokenOut: "0xcomingsoon",
           defaultTokenIn: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
           feeSetting: p,
           enableRoute: !0,
@@ -97200,7 +97200,7 @@ const vc = {
       ],
     });
   },
-  ly = "0xc8c6C17c802F22324eF2585B0cb17c1570D2492c",
+  ly = "0xcomingsoon",
   u1e = () =>
     W.jsxs("section", {
       className: "relative bg-[#1b1b1b] w-full !z-20 py-20",
@@ -97243,13 +97243,13 @@ const vc = {
                     W.jsx("p", {
                       className: "text-white text-xl text-center lg:text-left",
                       children:
-                        '"币安人生" (Binance Life) appears to be a humorous and recurring theme in the thread, suggesting a satirical or community-driven concept tied to the Binance ecosystem, where holding BNB is jokingly associated with a luxurious lifestyle including "Binance cars" and "Binance neighborhoods.',
+                        '"妈妈" (Binance Life) appears to be a humorous and recurring theme in the thread, suggesting a satirical or community-driven concept tied to the Binance ecosystem, where holding BNB is jokingly associated with a luxurious lifestyle including "Binance cars" and "Binance neighborhoods.',
                     }),
                     W.jsx("br", {}),
                     W.jsx("p", {
                       className: "text-white text-xl text-center lg:text-left",
                       children:
-                        "At its core is Yi He Moon—the first crypto queen embodies Binance Life innovation. But she’s just the beginning.",
+                        "At its core is Yi He Moon—the first crypto queen embodies MAMA innovation. But she’s just the beginning.",
                     }),
                   ],
                 }),
@@ -97278,7 +97278,7 @@ const vc = {
                   children: [
                     { title: "Chain", value: "BNB" },
                     { title: "Supply", value: "1,000,000,000" },
-                    { title: "Ticker", value: "币安人生" },
+                    { title: "Ticker", value: "妈妈" },
                   ].map((t, e) =>
                     W.jsxs(
                       "div",
@@ -97351,7 +97351,7 @@ const vc = {
           className: "font-primary text-center text-white flex justify-center",
           children: [
             W.jsxs("iframe", {
-              src: "https://pancakeswap.finance/swap?outputCurrency=0xc8c6C17c802F22324eF2585B0cb17c1570D2492c&inputCurrency=BNB",
+              src: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon&inputCurrency=BNB",
               style: {width: "400px", height: "500px"}
             }),
           ],
@@ -97425,7 +97425,7 @@ const vc = {
               className:
                 "text-[#c5c5c5] text-xl mt-5 font-primary max-w-5xl lg:text-left text-center",
               children:
-                "This isn’t just fandom—it’s financial and creative empowerment. 币安人生 transforms passive listeners into stakeholders, where every stream, vote, and collaboration fuels a self-sustaining entertainment economy.",
+                "This isn’t just fandom—it’s financial and creative empowerment. 妈妈 transforms passive listeners into stakeholders, where every stream, vote, and collaboration fuels a self-sustaining entertainment economy.",
             }),
           ],
         }),
@@ -97489,25 +97489,25 @@ const vc = {
   NL = [
     {
       img: "/imgs/socials/whitedextools.svg",
-      url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xc8c6C17c802F22324eF2585B0cb17c1570D2492c",
+      url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
       variant: "w-16 h-16",
       title: "Dextools",
     }, 
     {
       img: "/imgs/socials/whitedexscreener.svg",
-      url: "https://dexscreener.com/bsc/0xc8c6C17c802F22324eF2585B0cb17c1570D2492c",
+      url: "https://dexscreener.com/bsc/0xcomingsoon",
       variant: "w-16 h-16",
       title: "Dexscreener",
     },
     {
       img: "/imgs/socials/telegram.svg",
-      url: "https://t.me/binancelife_fun",
+      url: "https://t.me/heyimamaroom",
       variant: "w-16 h-16",
       title: "Telegram",
     },
     {
       img: "/imgs/socials/twitter.svg",
-      url: "https://x.com/BinancelifeX",
+      url: "https://x.com/heyimamabnb",
       variant: "w-16 h-16",
       title: "Twitter",
     },
@@ -97787,13 +97787,13 @@ const vc = {
                   className:
                     "uppercase font-primary md:text-9xl sm:text-6xl text-5xl font-semibold italic",
                   style: { textShadow: "0 4px 16px yellow" },
-                  children: "币安人生",
+                  children: "妈妈",
                 }),
                 W.jsx("p", {
                   className:
                     "font-primary max-w-[30rem] mt-2 sm:text-lg text-sm mx-auto sm:mx-0",
                   style: { textShadow: "0 2px 8px yellow" },
-                  children: "币安人生 – The World’s First Life Style on BNB",
+                  children: "妈妈 – The World’s First Life Style on BNB",
                 }),
                 W.jsx(hi.div, {
                   initial: { opacity: 0, y: 20 },
@@ -98103,7 +98103,7 @@ const b1e = Ns(g1e),
         // W.jsx("h1", {
         //   className:
         //     "font-primary text-primary text-4xl md:text-6xl lg:text-7xl text-center mb-5 italic [-webkit-text-stroke:_2px_rgba(0,0,0,1)] [text-shadow:_0_8px_0_rgb(0_0_0_/_100%)]",
-        //   children: "How to Buy 币安人生",
+        //   children: "How to Buy 妈妈",
         // }),
         // W.jsx("iframe", {
         //   src: "https://www.youtube.com/embed/z2HVc2sJEVU?si=0UjVqLpdl8r9LMol&autoplay=1&mute=1&loop=1&playlist=z2HVc2sJEVU",
@@ -103672,7 +103672,7 @@ const jpe = () => {
         //       className:
         //         "text-[#c5c5c5] text-xl mt-5 font-primary max-w-3xl mx-auto",
         //       children:
-        //         "Trade 币安人生 on leading cryptocurrency exchanges with spot and futures trading options.",
+        //         "Trade 妈妈 on leading cryptocurrency exchanges with spot and futures trading options.",
         //     }),
         //   ],
         // }),
@@ -103802,7 +103802,7 @@ function Upe() {
                     lang: "zh",
                     dir: "ltr",
                     children:
-                      "唉呀呀呀呀，感谢我Jason总，你可太性情太通透了，简直就是币安思维，祝你持有BNB开币安汽车，住币安小区，享币安人生🙏"
+                      "唉呀呀呀呀，感谢我Jason总，你可太性情太通透了，简直就是币安思维，祝你持有BNB开币安汽车，住币安小区，享妈妈🙏"
                   }),
                   " — Yi He ",
                   W.jsx("a", {
